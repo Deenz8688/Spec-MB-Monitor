@@ -1,5 +1,3 @@
-<img width="1070" height="614" alt="Screenshot 2026-05-02 130155" src="https://github.com/user-attachments/assets/407dbdfa-a45c-4a2b-a273-2bd47cd03ad6" />
-
 Markdown
 # Spec MB Monitor 🖥️
 Simple software for your PC spec monitor
