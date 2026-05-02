@@ -12,13 +12,31 @@ v0.0.3
 
 # Spec MB Monitor
 
-Lightweight PC monitoring tool for Windows
+A lightweight PC monitoring tool for Windows.
 
-✅ CPU Usage
-✅ RAM Usage
-✅ GPU Usage
-✅ Storage Health & Usage
-✅ External Disk Detection
+## Features
+- ✅ CPU Usage (Real-time)
+- ✅ RAM Usage
+- ✅ GPU Usage
+- ✅ Storage Usage & Health
+- ✅ External Disk Detection
+- ✅ Lightweight & simple UI
+
+## Screenshot
+(Add your screenshot here)
 
 ## Download
-👉 Go to Releases and download latest version
+👉 Go to Releases page:
+https://github.com/Deenz8688/Spec-MB-Monitor/releases
+
+## Requirements
+- Windows 10 / 11
+- Administrator access (for hardware monitoring)
+
+## Notes
+- External drives may show "Connected" without usage/health.
+- Some sensors depend on system hardware.
+
+---
+
+Built with C# WPF + LibreHardwareMonitor
